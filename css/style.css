@@ -446,7 +446,7 @@ table tr td a { color: #e93e21; }
 /*mega-menu*/
 .mega-menu .drop-down-multilevel.right-menu { right: 0px; }
 .mega-menu .menu-links > li:last-child > a { padding-right: 0px; }
-.mega-menu .menu-logo li img, .header-5 .logo img { height: 60px; }
+.mega-menu .menu-logo li img, .header-5 .logo img { height: 150px; }
 
 /*default*/
 .header { background: transparent; z-index: 999; padding: 15px 0 20px; position: absolute; width: 100%; }
@@ -1260,7 +1260,7 @@ blockquote cite { font-size: 14px; margin-top: 15px; display: block; font-weight
 .footer .opening-time li span { float: right; }
 
 /*footer-bottom*/
-.footer .footer-bottom { background: transparent; padding: 40px 0px; margin-top: 30px; position: relative; }
+.footer .footer-bottom { background: transparent; padding: 40px 0px; position: relative; }
 .footer-bottom p a { color: #e93e21; }
 .footer .footer-social ul li a { display: block; font-size: 16px; color: #ffffff; background: rgba(0, 0, 0, 0.3); border-radius: 50%; width: 50px; height: 50px; line-height: 50px; text-align: center; }
 .footer .footer-social ul li a:hover { background: #e93e21; }
